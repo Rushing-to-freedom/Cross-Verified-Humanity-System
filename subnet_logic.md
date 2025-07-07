@@ -1,3 +1,10 @@
+---
+title: Distributed-Human-Verification-System
+author: Rushing_to_freedom
+date: 2025-07-07
+---
+
+
 ## Structured Representation of the System Logic
 
 **I. Key Roles and Functions:**
