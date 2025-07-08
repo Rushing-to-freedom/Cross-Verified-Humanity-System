@@ -126,7 +126,7 @@ Thus, the system achieves its primary goal: ensuring network tasks are performed
 ---------------------------------------------------------------------------
 
 **Author**:Rushing_to_freedom
-**Creation Date**: 2025-07-07  
+**Creation Date**: 2025-07-07 
 **License**: [MIT License](LICENSE)
 
 A comprehensive human verification system for Bittensor subnets, featuring:
