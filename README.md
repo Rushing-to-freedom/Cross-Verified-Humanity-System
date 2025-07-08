@@ -1,4 +1,4 @@
-# Distributed-Human-Verification-System
+# Cross-Verified Humanity (CVH) System
 Cryptoeconomic protocol for human verification in decentralized networks.
 
 ## About the System
