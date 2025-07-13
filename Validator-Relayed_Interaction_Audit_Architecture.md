@@ -1,4 +1,4 @@
-*Validator-Relayed Interaction audit architecture*
+***Validator-Relayed Interaction audit architecture***
 
 **1. Network Interaction Auditing Mechanism via Validator Relay Nodes**
 *   **Principle:** All critical network interactions (connections, task requests, task delivery, answer submissions) between Miners (M) and Contributors (C) **must pass through Validator (V) nodes**.
