@@ -125,6 +125,9 @@ Thus, the system achieves its primary goal: ensuring network tasks are performed
 
 ## [Validator-Relayed Interaction Audit Architecture](Validator-Relayed_Interaction_Audit_Architecture.md)
 *This document specifies the mechanisms for detecting, proving, and attributing fault in adversarial network interactions (ignored connections, task/response manipulation) within a distributed system architecture involving Miners, Contributors, and Validator-Relays. It enables cryptographically verifiable arbitration in "honest-but-curious" and Byzantine scenarios.*  
+
+
+
 ---------------------------------------------------------------------------
 
 **Author**:Rushing_to_freedom
