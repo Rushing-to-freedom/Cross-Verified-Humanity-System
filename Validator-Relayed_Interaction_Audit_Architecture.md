@@ -1,3 +1,5 @@
+*Validator-Relayed Interaction audit architecture*
+
 **1. Network Interaction Auditing Mechanism via Validator Relay Nodes**
 *   **Principle:** All critical network interactions (connections, task requests, task delivery, answer submissions) between Miners (M) and Contributors (C) **must pass through Validator (V) nodes**.
 *   **Functions of V:**
@@ -74,4 +76,5 @@ These mechanisms establish a **technically enforced and cryptographically provab
 2.  Attempts to deliver incorrect tasks.
 3.  Distortion or concealment of answers.
 4.  Contributor inaction.
+
 The system operates without compromising participant anonymity within the context of their operational interactions.
