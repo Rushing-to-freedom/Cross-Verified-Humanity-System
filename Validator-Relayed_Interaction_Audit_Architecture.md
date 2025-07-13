@@ -1,10 +1,11 @@
+---
+title: Validator-Relayed Interaction audit architecture
+author: Rushing_to_freedom
+date: 2025-07-14
+---
+
 **Validator-Relayed Interaction audit architecture**
 
----
-title: Distributed-Human-Verification-System
-author: Rushing_to_freedom
-date: 2025-07-07
----
 
 **1. Network Interaction Auditing Mechanism via Validator Relay Nodes**
 *   **Principle:** All critical network interactions (connections, task requests, task delivery, answer submissions) between Miners (M) and Contributors (C) **must pass through Validator (V) nodes**.
