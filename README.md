@@ -123,7 +123,7 @@ The complex interaction of the described mechanisms (dynamic registration, cross
 Thus, the system achieves its primary goal: ensuring network tasks are performed by real humans by creating an environment where dishonest or inefficient behavior is economically disadvantageous.
 
 
-**Validator-Relayed Interaction Audit Architecture (Validator-Relayed_Interaction_Audit_Architecture.md)
+[Validator-Relayed Interaction Audit Architecture](Validator-Relayed_Interaction_Audit_Architecture.md)
 ---------------------------------------------------------------------------
 
 **Author**:Rushing_to_freedom
@@ -138,7 +138,7 @@ A comprehensive human verification system for Bittensor subnets, featuring:
 - Economic incentive structures
 - Sybil attack protection mechanisms
 
-[Full System Documentation](subnet_logic.md), (Validator-Relayed_Interaction_Audit_Architecture.md)
+[Full System Documentation](subnet_logic.md)
 
 ## Use Cases
 - Implementation in your project
