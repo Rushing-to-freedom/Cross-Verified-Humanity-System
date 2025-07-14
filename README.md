@@ -14,7 +14,9 @@ Cryptoeconomic protocol for human verification in decentralized networks.
     *   **Eviction Mechanism:** When a new miner wishes to register, the miner with the **lowest weight** ("the weakest") is ejected from the subnet.
 
 2.  **Contributor Registration and Identification:**
-    *   **Validators** register contributors.
+
+    *    The miner sends a contributor registration request to the validator and provides the contributor with a subscription key.
+    *    **Validators** register contributors.
     *   Upon registration, a contributor is assigned a unique identifier (conditional number) within the subnet.
     *   **"Humanity" Verification at Registration:** The validator **cannot and should not** directly verify a contributor's humanity at the moment of registration. Humanity confirmation is the result of the system's comprehensive operation.
     *   **Client Application (Optional Enhancement):**
