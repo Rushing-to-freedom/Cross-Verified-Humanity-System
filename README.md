@@ -27,7 +27,7 @@ Cryptoeconomic protocol for human verification in decentralized networks.
 1.  **Validators (Generation, Assignment, Accounting):**
     *   **Tasks:** Each validator **independently generates tasks**.
     *   **Distribution:** Each validator broadcasts **its own generated task to all miners** in the subnet simultaneously.
-    *   **Contributor Assignment:** For **each** of its tasks and **each** miner, the validator **randomly** assigns **one** contributor from the network.
+    *   **Contributor Assignment:** For **each** of its tasks and **each** miner, the validator **randomly** assigns **one (or several)** contributor from the network.
     *   **Accounting and Rating:** Validators track contributor work, calculate, and maintain their **ratings** based on task-solving success.
     *   **Consensus:** Validators operate as a group and achieve consensus on key network decisions (assignments, ratings, weights).
 
