@@ -10,6 +10,7 @@
 
 **Contributor Registration:**
 *   A Miner registers its Contributors through Validators.
+*   A Miner can register two types of Contributors through a Validator: Human Contributor and AI-Agent Contributor.
 *   The Validator performs the Contributor registration and binds the Contributor to the specific Miner who initiated the registration.
 *   **Registration Functions:**
     *   Assigning the Contributor a unique identifier (conditional number) within the subnet.
